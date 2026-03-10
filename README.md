@@ -8,7 +8,7 @@
 | Nome | GitHub |
 |------|--------|
 | Rafael | [@rafaelsrhub](https://github.com/rafaelsrhub) |
-| _(Adicionar demais integrantes)_ | |
+| vitoriano | [@vitorianorvp](https://github.com/vitorianorvp) |
 
 ---
 
