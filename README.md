@@ -9,6 +9,7 @@
 |------|--------|
 | Rafael | [@rafaelsrhub](https://github.com/rafaelsrhub) |
 | vitoriano | [@vitorianorvp](https://github.com/vitorianorvp) |
+| Lucas Garcia | [@Lukym19](https://github.com/Lukym19) |
 
 ---
 
