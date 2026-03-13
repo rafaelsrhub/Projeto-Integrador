@@ -11,7 +11,7 @@
 | vitoriano | [@vitorianorvp](https://github.com/vitorianorvp) |
 | Lucas Garcia | [@Lukym19](https://github.com/Lukym19) |
 | Victor Soares | [@vs0arez](https://github.com/vs0arez) |
-
+| João Marcos | [@joao-ntz](https://github.com/joao-ntz) |
 ---
 
 ## Tema do Projeto
