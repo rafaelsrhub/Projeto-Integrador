@@ -10,6 +10,7 @@
 | Rafael | [@rafaelsrhub](https://github.com/rafaelsrhub) |
 | vitoriano | [@vitorianorvp](https://github.com/vitorianorvp) |
 | Lucas Garcia | [@Lukym19](https://github.com/Lukym19) |
+| Lucas Gonçalves | [@lncasdias](https://github.com/lncasdias) |
 | Victor Soares | [@vs0arez](https://github.com/vs0arez) |
 | João Marcos | [@joao-ntz](https://github.com/joao-ntz) |
 ---
