@@ -13,6 +13,7 @@
 | Lucas Gonçalves | [@lncasdias](https://github.com/lncasdias) |
 | Victor Soares | [@vs0arez](https://github.com/vs0arez) |
 | João Marcos | [@joao-ntz](https://github.com/joao-ntz) |
+| Allessander da silva oliveira junior | [@GAMEOFGODSJ](https://github.com/GAMEOFGODSJ) |
 ---
 
 ## Tema do Projeto
