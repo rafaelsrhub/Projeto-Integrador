@@ -14,6 +14,7 @@
 | Victor Soares | [@vs0arez](https://github.com/vs0arez) |
 | João Marcos | [@joao-ntz](https://github.com/joao-ntz) |
 | Allessander da silva oliveira junior | [@GAMEOFGODSJ](https://github.com/GAMEOFGODSJ) |
+| Sabrina de Oliveira Zago Capanema | [@sabrinaozc](https://github.com/sabrinaozc) |
 ---
 
 ## Tema do Projeto
