@@ -18,6 +18,6 @@
 import streamlit as st
 import pandas as pd
 
-# TODO: Implementar na Etapa 2
+# Implementar tudo na Etapa 2
 st.title('Flor de Aco: Analise de Feminicidio no Brasil')
 st.write('Dashboard em desenvolvimento - Etapa 2')
