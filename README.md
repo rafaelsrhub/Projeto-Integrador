@@ -68,7 +68,7 @@ Este projeto tem como objetivo investigar a evolução dos casos de feminicídio
 
 ### Extract (Extração)
 - Carregamento dos arquivos `.csv` da base `feminicidio_serie_historica` e `geo_macroregiao` utilizando a biblioteca `pandas`
-- Leitura da base preliminar `feminicidio_prelim.csv` para dados recentes
+- Leitura da base preliminar `pns_violencia_fem_2019.csv` para dados recentes
 
 ### Transform (Transformação)
 Transformações planejadas:
