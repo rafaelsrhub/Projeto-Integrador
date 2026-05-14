@@ -1,3 +1,3 @@
 # Pasta reservada para os arquivos de dados
-# base_original/ - arquivos originais do Kaggle (.parquet)
+# base_original/ - arquivos originais do Kaggle (.csv)
 # base_tratada.csv - base apos processo ETL com Pandas
