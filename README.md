@@ -49,7 +49,7 @@ Este projeto tem como objetivo investigar a evolução dos casos de feminicídio
 | Arquivo | Descrição |
 |---------|-----------|
 | `feminicidio_serie_historica.csv` | Base consolidada e validada de óbitos femininos por causas externas — principal arquivo de análise |
-| `feminicidio_prelim.csv` | Base preliminar com registros mais recentes, sujeitos a revisão |
+| `pns_violencia_fem_2019.csv` | Base preliminar com registros mais recentes, sujeitos a revisão |
 | `geo_macroregiao.csv` | Base auxiliar com municípios, regiões e macrorregiões de saúde para cruzamento geográfico |
 
 ### Principais colunas disponíveis:
