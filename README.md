@@ -48,9 +48,9 @@ Este projeto tem como objetivo investigar a evolução dos casos de feminicídio
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `feminicidio_serie_historica.parquet` | Base consolidada e validada de óbitos femininos por causas externas — principal arquivo de análise |
-| `feminicidio_prelim.parquet` | Base preliminar com registros mais recentes, sujeitos a revisão |
-| `geo_macroregiao.parquet` | Base auxiliar com municípios, regiões e macrorregiões de saúde para cruzamento geográfico |
+| `feminicidio_serie_historica.csv` | Base consolidada e validada de óbitos femininos por causas externas — principal arquivo de análise |
+| `pns_violencia_fem_2019.csv` | Base preliminar com registros mais recentes, sujeitos a revisão |
+| `geo_macroregiao.csv` | Base auxiliar com municípios, regiões e macrorregiões de saúde para cruzamento geográfico |
 
 ### Principais colunas disponíveis:
 
@@ -67,8 +67,8 @@ Este projeto tem como objetivo investigar a evolução dos casos de feminicídio
 ## Planejamento do Processo ETL
 
 ### Extract (Extração)
-- Carregamento dos arquivos `.parquet` da base `feminicidio_serie_historica` e `geo_macroregiao` utilizando a biblioteca `pandas`
-- Leitura da base preliminar `feminicidio_prelim.parquet` para dados recentes
+- Carregamento dos arquivos `.csv` da base `feminicidio_serie_historica` e `geo_macroregiao` utilizando a biblioteca `pandas`
+- Leitura da base preliminar `feminicidio_prelim.csv` para dados recentes
 
 ### Transform (Transformação)
 Transformações planejadas:
