@@ -67,8 +67,8 @@ Este projeto tem como objetivo investigar a evolução dos casos de feminicídio
 ## Planejamento do Processo ETL
 
 ### Extract (Extração)
-- Carregamento dos arquivos `.parquet` da base `feminicidio_serie_historica` e `geo_macroregiao` utilizando a biblioteca `pandas`
-- Leitura da base preliminar `feminicidio_prelim.parquet` para dados recentes
+- Carregamento dos arquivos `.csv` da base `feminicidio_serie_historica` e `geo_macroregiao` utilizando a biblioteca `pandas`
+- Leitura da base preliminar `feminicidio_prelim.csv` para dados recentes
 
 ### Transform (Transformação)
 Transformações planejadas:
