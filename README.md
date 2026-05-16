@@ -128,10 +128,10 @@ projeto-integrador-grupo/
 |-------|-----------|-------------|-------|
 | 1 | Criação do repositório e README | Rafael | 23/03/2026 |
 | 1 | Estrutura de pastas e colaboradores | Grupo | 23/03/2026 |
-| 2 | Download e exploração inicial dos dados | A definir | Abril/2026 |
-| 2 | Desenvolvimento do script ETL (`etl.py`) | A definir | Abril/2026 |
-| 2 | Tratamento e limpeza dos dados com Pandas | A definir | Abril/2026 |
-| 2 | Desenvolvimento do dashboard Streamlit | A definir | Abril/2026 |
+| 2 | Download e exploração inicial dos dados | Rafael, Sabrina e Lucas | 18/05/2026 |
+| 2 | Desenvolvimento do script ETL (`etl.py`) | A definir | 18/05/2026 |
+| 2 | Tratamento e limpeza dos dados com Pandas | A definir | 18/05/2026 |
+| 2 | Desenvolvimento do dashboard Streamlit | A definir | 18/05/2026 |
 | 2 | Testes, ajustes e entrega final | Grupo | A confirmar |
 
 ---
