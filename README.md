@@ -127,11 +127,11 @@ projeto-integrador-grupo/
 | Etapa | Atividade | Responsável | Prazo |
 |-------|-----------|-------------|-------|
 | 1 | Criação do repositório e README | Rafael | 23/03/2026 |
-| 1 | Estrutura de pastas e colaboradores | João Marcos | 23/03/2026 |
-| 2 | Download e exploração inicial dos dados | Rafael, Sabrina e Lucas | 18/05/2026 |
-| 2 | Desenvolvimento do script ETL (`etl.py`) | Victor, Lucas, Rafael e Allessander | 18/05/2026 |
-| 2 | Tratamento e limpeza dos dados com Pandas | Rafael, Sabrina e Lucas | 18/05/2026 |
-| 2 | Desenvolvimento do dashboard Streamlit | Victor, Lucas, Rafael e Allessander | 18/05/2026 |
+| 1 | Estrutura de pastas e colaboradores | João  | 23/03/2026 |
+| 2 | Download e exploração inicial dos dados | Rafael, Sabrina e Lucas D | 18/05/2026 |
+| 2 | Desenvolvimento do script ETL (`etl.py`) | Victor, Lucas G, Rafael e Allessander | 18/05/2026 |
+| 2 | Tratamento e limpeza dos dados com Pandas | Rafael, Sabrina e Lucas D | 18/05/2026 |
+| 2 | Desenvolvimento do dashboard Streamlit | Victor, Lucas G, Rafael e Allessander | 18/05/2026 |
 | 2 | Testes, ajustes e entrega final | Grupo | A confirmar |
 
 ---
@@ -150,10 +150,11 @@ projeto-integrador-grupo/
 | Tarefa | Responsável |
 |--------|-------------|
 | Configuração do repositório GitHub | Rafael |
-| Documentação do README | Rafael |
-| Script ETL | A definir |
-| Dashboard Streamlit | A definir |
-| Testes e validação | A definir |
+| Documentação do README | Rafael e João |
+| Download e exploração inicial dos dados | Rafael, Sabrina e Lucas D |
+| Script ETL | Victor, Lucas G, Rafael e Allessander |
+| Dashboard Streamlit | Victor, Lucas G, Rafael e Allessander |
+| Testes e validação | Grupo |
 
 > **Nota:** Este planejamento é inicial e pode ser ajustado na Etapa 2 conforme o desenvolvimento e aprendizado da equipe.
 
