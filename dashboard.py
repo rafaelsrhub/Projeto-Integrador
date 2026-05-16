@@ -21,7 +21,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Análise Feminicídio", layout="wide")
 
-df = pd.read_csv("base_tratada.csv")
+df = pd.read_csv("data/base_tratada.csv")
 # Implementar tudo na Etapa 2
 st.title('Flor de Aco: Analise de Feminicidio no Brasil')
 
@@ -50,7 +50,7 @@ fig_mapa.update_geos(fitbounds="locations", visible=False)
 #AQUI EU FIZ O GRAFICO DE BARRAS NO POR RAÇA/COR (LUCAS G)
 casos_raca = (df[df["RACA_COR"] != "Ignorado"].groupby("RACA_COR").size().reset_index(name="CASOS POR RAÇA/COR"))
 
-fig_pizza = px.pie(casos_raca, names="RACA_COR", values="CASOS POR RAÇA/COR", title="Distribuição de Casos de Feminicídio por Raça/Cor", color_discrete_sequence=["#FF2F00", "#1F77B4", "#2CA02C", "#FFD700", "#8A2BE2"])
+fig_pizza = px.pie(casos_raca, names="RACA_COR", values="CASOS POR RAÇA/COR", title="Distribuição de Casos de Feminicídio por Raça/Cor", color_discrete_sequence=["#C2492E", "#1F77B4", "#2CA02C", "#FFD700", "#8A2BE2"])
  
 col1, col2 = st.columns([1,1], gap="large")
 with col1:
