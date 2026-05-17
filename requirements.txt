@@ -1,0 +1,4 @@
+# Este arquivo avisa ao servidor do Streamlit Cloud quais bibliotecas 
+# externas ele precisa instalar antes de rodar o nosso aplicativo.
+plotly
+pandas
