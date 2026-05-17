@@ -102,6 +102,18 @@ O dashboard interativo será desenvolvido com **Streamlit** e apresentará:
 
 ---
 
+##  Deploy na Nuvem (Streamlit Cloud)
+
+O nosso projeto já está no ar! Para facilitar a visualização e os testes, publicamos o dashboard final direto na plataforma do Streamlit Cloud.
+
+Você pode acessar a aplicação funcionando e interagir com todos os filtros e gráficos clicando no link abaixo:
+
+ **[Acessar o Dashboard Flor de Aço](https://projeto-integrador-u2zulexp8qex3ngsrzhmjy.streamlit.app/)**
+
+*Nota: O ambiente na nuvem já foi configurado usando o arquivo `requirements.txt` para fazer a instalação automática das bibliotecas (como o Plotly e o Pandas).*
+
+---
+
 ## Estrutura de Pastas do Repositório
 
 ```
